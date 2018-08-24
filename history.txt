@@ -1,0 +1,73 @@
+    1  cd mysite
+    2  git status
+    3  git add .
+    4  git commit -m "ca vous donne donc un huitieme point"
+    5  mkvirtualenv flask-tutorial --python=python3.6
+    6  pip install flask flask-login flask-sqlalchemy mysql-connector-python
+    7  pip freeze > requirements.txt
+    8  git status
+    9  git add .
+   10  git commit -m "quels sont les deux grandes luminaires de ce chapitre"
+   11  pip install Flask-Migrate
+   12  export FLASK_APP=flask_app.py
+   13  flask db init
+   14  flask db migrate
+   15  flask db stamp head
+   16  pip freeze > requirements.txt
+   17  git status
+   18  git add .
+   19  git commit -m "l'hymne ave verum, bien connue par les melomanes"
+   20  flask db migrate
+   21  flask db upgrade
+   22  git status
+   23  git add .
+   24  git commit -m "place d'italie, j'y vais une fois par mois"
+   25  flask db migrate
+   26  flask db upgrade
+   27  flask shell
+   28  select * from users;
+   29  echo "# https-www.pythonanywhere.com-user-danzidascenzi-consoles-9947030-" >> README.md
+   30  git init
+   31  git add README.md
+   32  git commit -m "first commit"
+   33  git remote add origin https://github.com/benoitsevres/https-www.pythonanywhere.com-user-danzidascenzi-consoles-9947030-.git
+   34  git push -u origin master
+   35  bserv3425@gmail.com
+   36  echo "# https-www.pythonanywhere.com-user-danzidascenzi-consoles-9947030-" >> README.md
+   37  git init
+   38  git add README.md
+   39  git commit -m "first commit"
+   40  git remote add origin https://github.com/benoitsevres/https-www.pythonanywhere.com-user-danzidascenzi-consoles-9947030-.git
+   41  git push -u origin master
+   42  echo "# https-www.pythonanywhere.com-user-danzidascenzi-consoles-9947030-" >> README.md
+   43  git init
+   44  git add README.md
+   45  git commit -m "first commit"
+   46  git remote add origin https://github.com/benoitsevres/https-www.pythonanywhere.com-user-danzidascenzi-consoles-9947030-.git
+   47  git push -u origin master
+   48  echo "# https-www.pythonanywhere.com-user-danzidascenzi-consoles-9947030-" >> README.md
+   49  git init
+   50  git add README.md
+   51  git commit -m "first commit"
+   52  git remote add origin https://github.com/benoitsevres/https-www.pythonanywhere.com-user-danzidascenzi-consoles-9947030-.git
+   53  git push -u origin master
+   54  echo "# https-www.pythonanywhere.com-user-danzidascenzi-consoles-9947030-" >> README.md
+   55  git init
+   56  git add README.md
+   57  git commit -m "first commit"
+   58  git remote add origin https://github.com/benoitsevres/https-www.pythonanywhere.com-user-danzidascenzi-consoles-9947030-.git
+   59  git push -u origin master
+   60  echo "# https-www.pythonanywhere.com-user-danzidascenzi-consoles-9947030-" >> README.md
+   61  git init
+   62  git add README.md
+   63  git commit -m "first commit"
+   64  git remote add origin https://github.com/benoitsevres/https-www.pythonanywhere.com-user-danzidascenzi-consoles-9947030-.git
+   65  git push -u origin master
+   66  echo "# https-www.pythonanywhere.com-user-danzidascenzi-consoles-9947030-" >> README.md
+   67  git init
+   68  git add README.md
+   69  git commit -m "first commit"
+   70  git remote add origin https://github.com/benoitsevres/https-www.pythonanywhere.com-user-danzidascenzi-consoles-9947030-.git
+   71  git push -u origin master
+   72  history
+   73  history > history.txt
